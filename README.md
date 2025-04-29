@@ -1,4 +1,4 @@
-Hello, there ✌
+# Hello, there ✌
 
 My name is Iago Rodrigues and I am a full-stack web development student from Rio de Janeiro.  
 I'm currently studying **Análise e Desenvolvimento de Sistemas** and taking a **Fullstack Developer** course.  
@@ -21,8 +21,7 @@ I'm constantly learning and improving my skills to become a great developer.
 
 ### 🛠️ Back-end:
 
-🚧 Em aprendizado...
-
+🚧 🚧 🚧 🚧...
 ---
 
 ## 📈 GitHub Stats
