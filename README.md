@@ -26,9 +26,11 @@ I'm constantly learning and improving my skills to become a great developer.
 
 ## 🌐 Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-rodriguess/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Iagovendas93@gmail.com)
-
----
+<a href="https://www.linkedin.com/in/iago-rodriguess/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:Iagovendas93@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 ⭐ Obrigado por visitar meu perfil!
