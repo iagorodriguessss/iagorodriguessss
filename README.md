@@ -1,10 +1,8 @@
 # Hello, there! ✌️
 
-My name is Iago Rodrigues, and I am a full-stack web development student from Rio de Janeiro.
-I am currently studying **Análise e Desenvolvimento de Sistemas** and taking a **Fullstack Developer** course.
+Meu nome é Iago Rodrigues e sou estudante de desenvolvimento web full-stack, natural do Rio de Janeiro. Atualmente, curso Análise e Desenvolvimento de Sistemas e estou realizando um curso de Fullstack Developer.
 
-I love creating modern, responsive, functional, and visually appealing websites and applications.
-I am constantly learning and improving my skills to become a great developer.
+Tenho paixão por criar sites e aplicações modernas, responsivas, funcionais e visualmente atraentes. Estou em constante aprendizado e aprimoramento das minhas habilidades para me tornar um desenvolvedor de excelência.
 
 ---
 
